@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ViniAlexandreOliveira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Sobre mim
+Meu nome é Vinicius e sou aluno do Ensino Médio Técnico na TecPuc <br>
+<hr>
+Tenho 15 anos<br>
 
-<!---
-ViniAlexandreOliveira/ViniAlexandreOliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+clica [aqui](https://www.youtube.com/watch?v=PXqcHi2fkXI)
