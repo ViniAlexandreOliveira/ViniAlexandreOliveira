@@ -1,6 +1,4 @@
 # Sobre mim
-Meu nome é Vinicius e sou aluno do Ensino Médio Técnico na TecPuc <br>
-<hr>
-Tenho 15 anos<br>
+Meu nome é Vinicius Alexandre Oliveira atualmente estou cursando Engenharia de Software na UniBrasil <br>
+Tenho alguns anos<hr>
 
-clica [aqui](https://www.youtube.com/watch?v=aWzKb071D9o)
